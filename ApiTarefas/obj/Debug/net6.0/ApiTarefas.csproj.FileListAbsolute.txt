@@ -30,3 +30,14 @@ C:\Projects\ApiTarefas\ApiTarefas\obj\Debug\net6.0\refint\ApiTarefas.dll
 C:\Projects\ApiTarefas\ApiTarefas\obj\Debug\net6.0\ApiTarefas.pdb
 C:\Projects\ApiTarefas\ApiTarefas\obj\Debug\net6.0\ApiTarefas.genruntimeconfig.cache
 C:\Projects\ApiTarefas\ApiTarefas\obj\Debug\net6.0\ref\ApiTarefas.dll
+C:\Projects\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Projects\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projects\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Projects\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Projects\ApiTarefas\ApiTarefas\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
